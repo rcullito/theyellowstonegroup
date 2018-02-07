@@ -1,7 +1,7 @@
 # The Yellowstone Group
 The Yellowstone Group: A book I wrote during my time off from programming.
 
-This is one of those none code repos, but as I always thought github was a nice place to incude "project work" in general 
+This is one of those non-code repos, but as I always thought github was a nice place to incude "project work" in general 
 I thought I would include a bit about my recent book here.
 
 If you're a fellow programmer like me, hopefully the issues of scale and individuality matter to you. I'm not saying there are any right answers, but I do think some additional thought is helpful before subscribing completely to the view that 1,000,000 active users are better than having just a handful, or that following established practice is always preferable to taking one's own quirks and running with them. This book was a welcome chance to explore different sides of these issues, and ideally it would be rewarding if others found in its pages some of the same struggles and contradictions inherent in startup life.  
