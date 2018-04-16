@@ -4,10 +4,19 @@ The Yellowstone Group: A book I wrote during my time off from programming.
 This is one of those non-code repos, but as I always thought github was a nice place to host "project work" in general 
 I decided to include a bit about my recent book here.
 
-If you're a fellow programmer like me, hopefully the issues of scale and individuality matter to you. I'm not saying there are any right answers, but I do think some additional thought is helpful before subscribing completely to the view that 1,000,000 active users are better than having just a handful, or that following established practice is always preferable to taking one's own quirks and running with them. This book was a welcome chance to explore different lines of reasoning, and ideally it would be rewarding if others found in its pages some of the same struggles and contradictions inherent in startup life.  
+If you're a fellow programmer like me (or if you're anything really) hopefully the issues of scale and
+individuality matter to you. I'm not saying there are any right answers, but I do think some additional
+thought is helpful before subscribing completely to the view that 1,000,000 active users are better than
+having just a handful, or that following established practice is always preferable to taking one's own quirks
+and running with them. This book was a welcome chance to explore different lines of thought I've heard and
+seen over the course of my 20s mixed with a kind of overstated message about the environment.
 
-Right now it is available on [amazon](https://www.amazon.com/Yellowstone-Group-Robert-Culliton/dp/1977079849/ref=sr_1_1?s=books&ie=UTF8&qid=1518024325&sr=1-1&keywords=the+yellowstone+group), and soon to be released via an independent publisher. Most importantly, I just
-hope people read it, so if cost is any issue, hit me up at rob.culliton@gmail.com and I'll email over a pdf for free. 
+"The Yellowstone Group"  was available for a few months earlier this calendar year (2018) so a tremendous thank you to
+everyone who read it! I was fortunate to receive some thoughtful feedback and am currently working on another
+revision which I hope will cut to the point more quickly while also providing a modicum of entertainment. 
+
+If anyone has any questions or concerns, my email is `rob.culliton@gmail.com` and I'm always down to kick
+around ideas. 
 
 Oh, and a description of what the book is about might help:
 
